@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------------------------
+                                                Gitfs
+-----------------------------------------------------------------------------------------------------
+
+In order to work with both distributed and undistributed code management solutions,
+some hakks were necessary. This is an ongoing project to automate cross-solution
+code management.
+
+GitWrapper - (c++) .dll that allows using complex git commands as c functions - mostly implemented
+VSGitfs - (c#) VS2015 extension that allows to patch git commits on tfs - todo
+PyGitfs - (py) Python application of the same application that allows functionality form command line

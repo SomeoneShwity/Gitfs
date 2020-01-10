@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitWrapper", "GitWrapper\GitWrapper.vcxproj", "{A187AC56-BE30-41E7-89FA-16DBC544ABE5}"
 EndProject
@@ -21,8 +21,19 @@ Global
 		{A187AC56-BE30-41E7-89FA-16DBC544ABE5}.Release|x64.Build.0 = Release|x64
 		{A187AC56-BE30-41E7-89FA-16DBC544ABE5}.Release|x86.ActiveCfg = Release|Win32
 		{A187AC56-BE30-41E7-89FA-16DBC544ABE5}.Release|x86.Build.0 = Release|Win32
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Debug|x64.ActiveCfg = Debug|x64
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Debug|x64.Build.0 = Debug|x64
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Debug|x86.Build.0 = Debug|Win32
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Release|x64.ActiveCfg = Release|x64
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Release|x64.Build.0 = Release|x64
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Release|x86.ActiveCfg = Release|Win32
+		{D8F0FD86-6CD7-4FEB-B68A-1CFCDD933487}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F31DE5-A25C-4074-B8FC-CF1B95347C64}
 	EndGlobalSection
 EndGlobal
